@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f8740bf-409f-457c-86ce-96a8b737eacc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server" beforeDir="false" afterPath="$PROJECT_DIR$/server" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/replit.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/app.ts" afterDir="false" />
     </list>
@@ -16,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Melorenzz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Melorenzz/todo-itstep.git&quot;,
+    &quot;accountId&quot;: &quot;63d96a33-3d52-4ceb-b7fa-3a52ea490113&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -67,7 +82,9 @@
       <workItem from="1756324928206" duration="53000" />
       <workItem from="1756394278477" duration="9056000" />
       <workItem from="1756503351476" duration="39000" />
-      <workItem from="1756757490819" duration="1889000" />
+      <workItem from="1756757490819" duration="2049000" />
+      <workItem from="1756810092120" duration="525000" />
+      <workItem from="1756818503087" duration="100000" />
     </task>
     <servers />
   </component>
