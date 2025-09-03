@@ -1,5 +1,5 @@
 import {useQuery} from "@tanstack/react-query";
-import {TodoService} from "@/services/main/services/todo.service.ts";
+import {TodoService} from "@/services/todo.service.ts";
 import type {Todo} from "@/types/todo.type.ts";
 
 export const useTodosQuery = () => {

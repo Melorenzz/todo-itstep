@@ -1,0 +1,1 @@
+// export {default as DeleteSvg} from from '@/assets/icon/DeleteIcon.svg.tsx'

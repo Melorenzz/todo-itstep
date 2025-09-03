@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f8740bf-409f-457c-86ce-96a8b737eacc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/assets/icons/DeleteIcon.svg.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/assets/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/card/todo-card/TodoCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/screens/todo/Todo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/screens/todo/hooks/useTodoQuery.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/config/RouterEnum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/config/RouterEnum.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/config/api.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/config/api.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/main/Main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/main/Main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/main/hooks/useTodoMutation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/main/hooks/useTodoMutation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/main/hooks/useTodosQuery.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/main/hooks/useTodosQuery.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/main/services/todo.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/todo.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/types/todo.type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/types/todo.type.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server" beforeDir="false" afterPath="$PROJECT_DIR$/server" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/replit.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/app.ts" afterDir="false" />
@@ -17,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Melorenz/Desktop/ITSTEP/React/less10-11",
+    "last_opened_file_path": "C:/Users/Melorenz/Desktop/start-up",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +72,7 @@
       <recent name="C:\Users\Melorenz\Desktop\ITSTEP\React\less10-11\front\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Melorenz\Desktop\ITSTEP\React\less10-11\front\src\services" />
       <recent name="C:\Users\Melorenz\Desktop\ITSTEP\React\less10-11\front\src\screens" />
     </key>
   </component>
@@ -85,6 +99,13 @@
       <workItem from="1756757490819" duration="2049000" />
       <workItem from="1756810092120" duration="525000" />
       <workItem from="1756818503087" duration="100000" />
+      <workItem from="1756819004894" duration="32000" />
+      <workItem from="1756819070061" duration="12000" />
+      <workItem from="1756823606420" duration="148000" />
+      <workItem from="1756825533674" duration="1371000" />
+      <workItem from="1756826971551" duration="14000" />
+      <workItem from="1756827058236" duration="9692000" />
+      <workItem from="1756851509095" duration="71000" />
     </task>
     <servers />
   </component>

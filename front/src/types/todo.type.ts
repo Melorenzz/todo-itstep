@@ -6,3 +6,8 @@ export interface Todo{
     createdAt: string;
     updatedAt: string;
 }
+export interface UpdateTodo{
+    title?: string;
+    description?: string;
+    status?: string;
+}

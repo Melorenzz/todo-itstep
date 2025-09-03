@@ -5,12 +5,14 @@ import {Route, type RouteObject, Routes} from "react-router";
 import Providers from "@/providers/Providers.tsx";
 import ApiDescription from "@/screens/api-description/ApiDescription.tsx";
 import Header from "@/components/Header.tsx";
+import Todo from "@/screens/todo/Todo.tsx";
 
 export default function App() {
 
 	const routes: Array<RouteObject> = [
 		{path: RouterEnum.MAIN, element: <Main />},
 		{path: RouterEnum.API_CONFIG, element: <ApiDescription />},
+		{path: RouterEnum.TODO, element: <Todo />},
 	]
 
 
