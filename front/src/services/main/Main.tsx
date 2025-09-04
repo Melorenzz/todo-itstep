@@ -1,5 +1,8 @@
 import {useTodosQuery} from "@/services/main/hooks/useTodosQuery.ts";
 import {Link} from "react-router";
+import {formatDate} from "@/helpers/formatDate.ts";
+import {cn} from "@/lib/cn.ts";
+import {getStatusColor} from "@/helpers/getStatusColor.ts";
 
 const Main = () => {
     const {data} = useTodosQuery()
@@ -33,16 +36,13 @@ const Main = () => {
                     </div>
 
                     <div className="mt-2 flex justify-between text-sm text-gray-500">
-        <span
-            className={`px-2 py-1 rounded-lg ${
-                todo.status === "done"
-                    ? "bg-green-100 text-green-700"
-                    : "bg-yellow-100 text-yellow-700"
-            }`}
-        >
+        <span className={cn(
+            "px-2 py-1 text-xs font-medium rounded-full",
+            getStatusColor(todo.status)
+        )}>
           {todo.status}
         </span>
-                        <span>{new Date(todo.createdAt).toLocaleDateString()}</span>
+                        <span>{formatDate(todo.createdAt)}</span>
                     </div>
                 </div>
             ))}
